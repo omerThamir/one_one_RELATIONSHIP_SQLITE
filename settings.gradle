@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ONE-ONE R DB Application"
